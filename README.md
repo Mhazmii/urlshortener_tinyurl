@@ -29,17 +29,12 @@ pip install pyshorteners
 pip install pyperclip
 ```
 ## 🚀 Cara Menjalankan
-Clone repositori:
+``` 1.Clone repositori:
+git clone https://github.com/Mhazmii/urlshortener_tinyurl.git
+cd urlshortener_tinyurl
 
-```git clone https://github.com/username/urlshortener.git
-cd urlshortener
-Jalankan skrip:
-
-bash
-Copy
-Edit
-python shortener.py
-Masukkan URL yang ingin dipendekkan. URL pendek akan langsung ditampilkan dan otomatis tersalin ke clipboard.
+Jalankan Scirpt
+python urlshortener.py
 ```
 ### 🎯 Tujuan
 - Melatih penggunaan pustaka pihak ketiga di Python
