@@ -4,7 +4,7 @@
 
 import pyshorteners
 
-url = input('Enter the url: ')
+url = input('Masukan URL Disini: ')
 
 
 def shortenurl(url):
